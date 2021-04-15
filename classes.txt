@@ -1,0 +1,10 @@
+finger_1
+finger_2
+finger_3
+finger_4
+finger_5
+thumb
+fist
+okay
+yolo
+shrink
